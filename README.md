@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+[Open the App](https://huggingface.co/spaces/AdnanBaothman/jeddah-library-intelligence)
+
+
 ---
 title: Jeddah Library Intelligence
 emoji: 📚
