@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "Model": "Linear Regression",
+      "R2": 0.876106,
+      "MAE": 5.947108,
+      "RMSE": 7.604567
+    },
+    {
+      "Model": "Decision Tree",
+      "R2": 0.862325,
+      "MAE": 5.961512,
+      "RMSE": 8.016341
+    },
+    {
+      "Model": "Random Forest",
+      "R2": 0.928729,
+      "MAE": 4.274999,
+      "RMSE": 5.767762
+    },
+    {
+      "Model": "Neural Network",
+      "R2": 0.939981,
+      "MAE": 4.007833,
+      "RMSE": 5.292908
+    }
+  ],
+  "best_model": "Neural Network",
+  "deployed_predictor": "Random Forest",
+  "deployed_predictor_r2": 0.928729,
+  "note": "Metrics copied from the provided notebook comparison_df output. The deployed predictor uses the notebook Random Forest configuration for fast Streamlit serving."
+}
